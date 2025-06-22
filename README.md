@@ -5,8 +5,7 @@ SayCaster is a basic 2D raycasting engine written in Python using Pygame. It ren
 
 ## 📸 Preview
 
-> ![SayCaster Demo](\preview.gif) 
-
+> ![SayCaster Demo](preview.gif) 
 ---
 
 ## 🧠 Concepts Learned
@@ -113,6 +112,6 @@ MIT — free to use, remix, and learn from.
 
 ```
 
----
+
 
 ```
